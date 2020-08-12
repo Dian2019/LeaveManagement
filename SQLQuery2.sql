@@ -1,4 +1,0 @@
-﻿select count(*) from TBL_BANKING_TXN
-select * from TBL_BANKING_TXN
-select * from INFORMATION_SCHEMA.COLUMNS
-where TABLE_NAME='TBL_BANKING_TXN'
